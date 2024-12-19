@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon --env-file=.env Simplerouting.js"
+    "start": "nodemon --env-file=.env fileSystem.js"
   },
   "author": "sahil",
   "license": "MIT",
